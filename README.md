@@ -9,7 +9,7 @@ Encrypts/decrypts image data (rasters) with AES 256, opens from PNG files, displ
 <br/>
 Two JS files needed: 
 
-    lib/cipherimage/cipherimages.js
+    lib/cipherimage/cipherimage.js
     lib/cryptojs/rollups/aes.js
     
 <br/>
